@@ -1,0 +1,15 @@
+D:\Uni\VS projects\MachineLearning_Laba1\MachineLearning_Laba1\obj\Debug\MachineLearning_Laba1.csproj.AssemblyReference.cache
+D:\Uni\VS projects\MachineLearning_Laba1\MachineLearning_Laba1\obj\Debug\MachineLearning_Laba1.csproj.CoreCompileInputs.cache
+D:\Uni\VS projects\MachineLearning_Laba1\MachineLearning_Laba1\bin\Debug\MachineLearning_Laba1.exe.config
+D:\Uni\VS projects\MachineLearning_Laba1\MachineLearning_Laba1\bin\Debug\MachineLearning_Laba1.exe
+D:\Uni\VS projects\MachineLearning_Laba1\MachineLearning_Laba1\bin\Debug\MachineLearning_Laba1.pdb
+D:\Uni\VS projects\MachineLearning_Laba1\MachineLearning_Laba1\obj\Debug\MachineLearning_Laba1.exe
+D:\Uni\VS projects\MachineLearning_Laba1\MachineLearning_Laba1\obj\Debug\MachineLearning_Laba1.pdb
+C:\Users\User\Desktop\T1_KT19_НестеренкоМІ\MachineLearning_Laba1\bin\Debug\MachineLearning_Laba1.exe.config
+C:\Users\User\Desktop\T1_KT19_НестеренкоМІ\MachineLearning_Laba1\bin\Debug\MachineLearning_Laba1.exe
+C:\Users\User\Desktop\T1_KT19_НестеренкоМІ\MachineLearning_Laba1\bin\Debug\MachineLearning_Laba1.pdb
+C:\Users\User\Desktop\T1_KT19_НестеренкоМІ\MachineLearning_Laba1\obj\Debug\MachineLearning_Laba1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\T1_KT19_НестеренкоМІ\MachineLearning_Laba1\obj\Debug\MachineLearning_Laba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\T1_KT19_НестеренкоМІ\MachineLearning_Laba1\obj\Debug\MachineLearning_Laba1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\T1_KT19_НестеренкоМІ\MachineLearning_Laba1\obj\Debug\MachineLearning_Laba1.exe
+C:\Users\User\Desktop\T1_KT19_НестеренкоМІ\MachineLearning_Laba1\obj\Debug\MachineLearning_Laba1.pdb
